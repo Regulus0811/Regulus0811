@@ -1,6 +1,6 @@
 ### 39♪ 👋
 
-![catch_the_wave](https://github.com/Regulus0811/Regulus0811/assets/121006576/a133eafb-c692-4789-bc75-1132ded256d1)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regulus0811&layout=compact"><br> 
