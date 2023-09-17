@@ -10,7 +10,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regulus0811&layout=compact&theme=tokyonight">  <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regulus0811&layout=compact&theme=tokyonight&hide=html">  <br>
 
 <br>
 
