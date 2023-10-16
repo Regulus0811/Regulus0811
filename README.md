@@ -1,10 +1,10 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39C5BB,100:39C5BB&height=250&section=header&text=39%20for%20visitng♪👋&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:33AAEE,100:33AAEE&height=250&section=header&text=39%20for%20visitng♪👋&fontSize=70" />
 
-<img src="https://github.com/Regulus0811/Regulus0811/assets/121006576/a133eafb-c692-4789-bc75-1132ded256d1.gif" width=500px>  <br>
+<img src="https://github.com/Regulus0811/Regulus0811/assets/121006576/17aab8a3-b24a-4d05-9e51-08e1d488868a.gif" width=500px>  <br>
 
-<p>art by おむたつ 初音ミク16周年記念アニメーション - Fan Film <br> https://twitter.com/omrice4869/status/1697172823465468271</p>
+<p>プロセカ3周年アニバーサリーソング 『NEO』 -  Leo/need <br> https://url.kr/qpox2c </p>
 
 <hr/>
 
